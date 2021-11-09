@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @weswilliams0123
+- 👋 Hi, I’m wes williams
+-
 - 👀 I’m interested in ...P.C and xbox Gaming Play everything
 - 🌱 I’m currently learning ...Azure Dev'ops
 - 💞️ I’m looking to collaborate on ...cloud -Azure.C# pretty much all languages
